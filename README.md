@@ -1,2 +1,0 @@
-# sized
-Created with CodeSandbox
